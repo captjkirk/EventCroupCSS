@@ -12,3 +12,6 @@
 .category-group:nth-last-child(1){
     display: none!important;
 }
+a.grid-item.ng-star-inserted {
+    margin-bottom: -25px;
+}
