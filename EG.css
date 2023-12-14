@@ -18,4 +18,6 @@ a.grid-item.ng-star-inserted {
 h3.event-name {
     display: none!important;
 }
-
+bt-start-end-date.\.bt-start-end-date {
+    display: none!important;
+}
